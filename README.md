@@ -2,7 +2,7 @@
 
 현장연구 발표자료와 참고자료를 모아두는 저장소입니다.
 
-2026-09-08 다운로드 폴더에서 다운로드 완료 상태를 확인한 자료 23개를 수록했습니다.
+2026-09-08 다운로드 폴더에서 다운로드 완료 상태를 확인한 자료 25개를 수록했습니다.
 
 ## 자료 목록
 
@@ -37,6 +37,8 @@
 | [현장연구_260612_신재호.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_260612_shinjaeho.pptx) | 45.92 MiB |
 | [현장연구_260617_신재호.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_260617_shinjaeho.pptx) | 244.49 MiB |
 | [dp_vla_진행현황.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/dp_vla_progress.pptx) | 573.15 MiB |
+| [현장연구_260320_신재호.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_260320_shinjaeho.pptx) | 37.29 MiB |
+| [박사자격시험_v9_260310.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/doctoral-qualifying-exam_v9_260310.pptx) | 509.18 MiB |
 
 ## 현장연구_260626_신재호.pptx — 분할 다운로드
 
