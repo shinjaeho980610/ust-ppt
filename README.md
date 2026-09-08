@@ -2,7 +2,7 @@
 
 현장연구 발표자료와 참고자료를 모아두는 저장소입니다.
 
-2026-09-08 다운로드 폴더에서 다운로드 완료 상태를 확인한 자료 22개를 수록했습니다.
+2026-09-08 다운로드 폴더에서 다운로드 완료 상태를 확인한 자료 23개를 수록했습니다.
 
 ## 자료 목록
 
@@ -37,3 +37,21 @@
 | [현장연구_260612_신재호.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_260612_shinjaeho.pptx) | 45.92 MiB |
 | [현장연구_260617_신재호.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_260617_shinjaeho.pptx) | 244.49 MiB |
 | [dp_vla_진행현황.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/dp_vla_progress.pptx) | 573.15 MiB |
+
+## 현장연구_260626_신재호.pptx — 분할 다운로드
+
+원본 크기는 약 2.73 GiB입니다. 파일당 업로드 제한 때문에 두 부분으로 나눠 보관했습니다.
+
+1. [분할 파일 1 다운로드](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_260626_shinjaeho.pptx.part001)
+2. [분할 파일 2 다운로드](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_260626_shinjaeho.pptx.part002)
+3. [Windows 복원 도구 다운로드](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/restore_260626.cmd)
+
+세 파일을 같은 폴더에 저장하고 `restore_260626.cmd`를 실행하세요. 최소 3 GB의 추가 여유 공간이 필요합니다. 두 파일을 합쳐 `field-research_260626_shinjaeho.pptx`를 만들고 원본과 동일한지 SHA-256으로 확인합니다. 완료 후 PPTX를 열 수 있으며, 원래 이름인 `현장연구_260626_신재호.pptx`로 바꿔도 됩니다. 기존 PPTX가 있으면 덮어쓰지 않습니다.
+
+macOS/Linux에서는 두 분할 파일을 받은 폴더에서 다음 명령으로 복원할 수 있습니다.
+
+```sh
+cat field-research_260626_shinjaeho.pptx.part001 field-research_260626_shinjaeho.pptx.part002 > field-research_260626_shinjaeho.pptx
+```
+
+원본 SHA-256: `2552b6b59db281107890f1eccf443b6b89e74ab591b4aaf02f7c7f423ca120d6`
