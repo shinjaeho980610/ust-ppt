@@ -2,7 +2,7 @@
 
 현장연구 발표자료와 참고자료를 모아두는 저장소입니다.
 
-2026-09-08 다운로드 폴더에서 다운로드 완료 상태를 확인한 자료 25개를 수록했습니다.
+2026-09-08 다운로드 폴더에서 다운로드 완료 상태를 확인한 자료 52개를 수록했습니다.
 
 ## 자료 목록
 
@@ -39,6 +39,40 @@
 | [dp_vla_진행현황.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/dp_vla_progress.pptx) | 573.15 MiB |
 | [현장연구_260320_신재호.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_260320_shinjaeho.pptx) | 37.29 MiB |
 | [박사자격시험_v9_260310.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/doctoral-qualifying-exam_v9_260310.pptx) | 509.18 MiB |
+
+## 추가 연구자료
+
+아래 27개 자료는 릴리스에서 원본 파일로 다운로드할 수 있습니다.
+
+| 자료 | 크기 |
+| --- | ---: |
+| [250306_석사과정_연구_요약.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/masters-research-summary_250306.pptx) | 20.10 MiB |
+| [5_Diffusion_Policy.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/5_Diffusion_Policy.pptx) | 42.76 MiB |
+| [6_Act_Policy.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/6_Act_Policy.pptx) | 4.59 MiB |
+| [Octo.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/Octo.pptx) | 3.94 MiB |
+| [OpenVLA.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/OpenVLA.pptx) | 5.52 MiB |
+| [RT-1.pdf](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/RT-1.pdf) | 2.51 MiB |
+| [RT-2.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/RT-2.pptx) | 26.73 MiB |
+| [현장연구_250530.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_250530.pptx) | 5.68 MiB |
+| [현장연구_250613.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_250613.pptx) | 33.24 MiB |
+| [현장연구_250704.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_250704.pptx) | 81.17 MiB |
+| [현장연구_250718.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_250718.pptx) | 128.55 MiB |
+| [현장연구_250725.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_250725.pptx) | 104.39 MiB |
+| [현장연구_250807.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_250807.pptx) | 112.36 MiB |
+| [현장연구_250814.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_250814.pptx) | 50.15 MiB |
+| [현장연구_250822.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_250822.pptx) | 113.19 MiB |
+| [현장연구_250905.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_250905.pptx) | 13.79 MiB |
+| [현장연구_250912.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_250912.pptx) | 4.80 MiB |
+| [현장연구_251015.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_251015.pptx) | 0.88 MiB |
+| [현장연구_251022.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_251022.pptx) | 265.76 MiB |
+| [현장연구_251029.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_251029.pptx) | 0.21 MiB |
+| [현장연구_251104.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_251104.pptx) | 444.80 MiB |
+| [현장연구_251201.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_251201.pptx) | 1.31 MiB |
+| [현장연구_251214.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_251214.pptx) | 5.43 MiB |
+| [현장연구_4주차.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_4-week.pptx) | 56.33 MiB |
+| [현장연구_5주차.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_5-week.pptx) | 21.36 MiB |
+| [현장연구_6주차.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_6-week.pptx) | 17.19 MiB |
+| [현장연구_7주차.pptx](https://github.com/shinjaeho980610/ust-ppt/releases/download/materials-2026-09-08/field-research_7-week.pptx) | 19.85 MiB |
 
 ## 현장연구_260626_신재호.pptx — 분할 다운로드
 
